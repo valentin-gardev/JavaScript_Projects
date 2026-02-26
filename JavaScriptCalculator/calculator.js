@@ -6,9 +6,15 @@ function appendToDisplay(input){
 }
 
 function clearDisplay(){
-
+    display.value = '';
 }
 
 function calculate(){
+    try{
+        display.value = eval(display.value)// Built in calculator, challange is to create my own functions for the calculations
+    }
+    catch(error){
+        display.value = display.value
 
+    }
 }
