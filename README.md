@@ -1,0 +1,2 @@
+- This is a repository where I keep all my JavaScript projects, big and small;
+- The point of these projects is to exercise using JavaScript in different way in order to help me get used to the language and how it works; 
