@@ -18,3 +18,6 @@ function calculate(){
 
     }
 }
+
+// Make the calculator as close as possible to the browser one
+// What happens when you press 2 times ++, or at the start etc etc
